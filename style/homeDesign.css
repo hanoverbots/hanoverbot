@@ -254,7 +254,7 @@ header img {
     border-radius: 5px;
 }
 
-
+.textBtn a:hover {
     border: 1px solid var(--color-white);
     color: var(--color-white);
 }
