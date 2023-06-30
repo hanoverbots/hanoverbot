@@ -117,7 +117,7 @@ nav button {
 }
 
 .hv:hover {
-    color: #000000;
+    color: #000;
     transition: var(--transition);
 }
 
