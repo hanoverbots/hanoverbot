@@ -15,7 +15,7 @@
     --color-primary: #6c63ff;
     --color-success: #00bf8e;
     --color-warning: #f7c94b;
-    --color-danger: #000000;
+    --color-danger: #000080;
     --color-danger-variant: rgba(247, 88, 66, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.7);
@@ -208,7 +208,7 @@ header img {
 .addButton2:hover {
     transform: translateY(-4px);
     transition: all 0.2s ease;
-    background-color: #000000;
+    background-color: #cf6056;
 }
 
 
